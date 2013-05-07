@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="宋体" Size="9" />
+  <Class Name="WinCity.Control.Event.EventAssigner" Collapsed="true">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Event\EventAssigner.cs</FileName>
+      <HashCode>AAAAAAQAAAAAAAAAAAAAAAAAABAAAAAAIAAAAAACAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WinCity.Control.Event.MouseEventTracker" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Event\MouseEventTracker.cs</FileName>
+      <HashCode>AAAAAAJAgAAAAAAAAACAIAEkAAALAAAAAAAAAABAYAI=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="WinCity.Control.Event.SimpleMouseEvent" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="13.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Event\SimpleMouseEvent.cs</FileName>
+      <HashCode>AAAEAABAgAAAAgQAAACAAAAGAAABAAAAAABgAABAYAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="WinCity.Control.ImageButton" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>ImageButton.cs</FileName>
+      <HashCode>GBKgIRQAICAQAEQAGAACAAQCAAAAIBCIAAAACUKCAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WinCity.Control.RBaseCommand" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="15.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>RBaseCommand.cs</FileName>
+      <HashCode>AAAAABAAAAAQAIAAAACAAAQCCCAGAAAIAAAACAACAAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="WinCity.Control.RContainer" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>RContainer.cs</FileName>
+      <HashCode>ASSABAAgACIgABCASBAAAAQIIEAAAAAIAABAGRBAAAQ=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="WinCity.Control.RControl" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>RControl.cs</FileName>
+      <HashCode>AASIACAACCBgIITACACAQAQAAAAEIAAIAIACCBKIggA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="WinCity.Control.RForm" Collapsed="true">
+    <Position X="12" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>RForm.cs</FileName>
+      <HashCode>BACAAgAAACAAAABAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WinCity.Control.RLabel" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>RLabel.cs</FileName>
+      <HashCode>QAKAAUAACCEAAAQACAAAAAAAAAAAIAAIAAEAKAKDAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WinCity.Control.RListView" Collapsed="true">
+    <Position X="2.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>RListView.cs</FileName>
+      <HashCode>AAAQAAEAAAIgAQgAAAAAQAAIgEAQAAAEAAgAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WinCity.Control.RPanel" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>RPanel.cs</FileName>
+      <HashCode>AQAAAAIAAAAAAQBAAAAAAAAAAAAAAABAAAEAgAABAAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="WinCity.Control.RToolbar" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>RToolbar.cs</FileName>
+      <HashCode>QAIAAUAAACEABQgCSAAAQAAIAEAIAEAIABEgEABDIgA=</HashCode>
+    </TypeIdentifier>
+    <NestedTypes>
+      <Class Name="WinCity.Control.RToolbar.CommandUI" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>RToolbar.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="WinCity.Control.RToolbar.ToolbarUIListener" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>RToolbar.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="WinCity.Control.Utility" Collapsed="true">
+    <Position X="15.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Utility.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WinCity.Control.LayoutManager.FlowLayout" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>LayoutManager\FlowLayout.cs</FileName>
+      <HashCode>AACAAAAAAAAAAAQKAAEACAAAAAAAAAAIAAAAAABAAAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="WinCity.Control.Listener.MouseEventAdapter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="15.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Listener\MouseEventAdapter.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAACEBAAAAAAIAAAAAACAAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="WinCity.Control.Listener.MouseListenerNotifier" Collapsed="true">
+    <Position X="13.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Listener\MouseListenerNotifier.cs</FileName>
+      <HashCode>AAAAAAAEAAAABBAAAABAAAQCEJAAIABAIAAAAABCAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="WinCity.Control.Event.IMouseEvent" Collapsed="true">
+    <Position X="13.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Event\IMouseEvent.cs</FileName>
+      <HashCode>AAAAAABAgAAAAAAAAACAAAAEAAAAAAAAAAAAAABAYAA=</HashCode>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="WinCity.Control.Event.IMouseEventTracker" Collapsed="true">
+    <Position X="12" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Event\IMouseEventTracker.cs</FileName>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAIAAgAAAIAAAAAAAAAABAAAI=</HashCode>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="WinCity.Control.Event.IMouseGestureRecognizer" Collapsed="true">
+    <Position X="13.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Event\IMouseEventTracker.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="WinCity.Control.IRCommand" Collapsed="true">
+    <Position X="15.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>IRCommand.cs</FileName>
+      <HashCode>AAAAABAAAAAAAIAAAAAAAAQCCCACAAAAAAAACAACAAA=</HashCode>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="WinCity.Control.IRContainer" Collapsed="true">
+    <Position X="12" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>IRContainer.cs</FileName>
+      <HashCode>AAQAAAAAAAAAAAAASAAAQAQAIAAAAAAAAAAAAABAAgQ=</HashCode>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="WinCity.Control.IRControl" Collapsed="true">
+    <Position X="13.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>IRControl.cs</FileName>
+      <HashCode>AASIAAAAAABgAISAAAAAQAQAAAAAIAAIAAAAABCIAgA=</HashCode>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="WinCity.Control.IRToolbar" Collapsed="true">
+    <Position X="15.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>IRToolbar.cs</FileName>
+      <HashCode>AAAAAUAAAAAABAACAAAAAAAAAEAAAEAAAAAgAABDAAA=</HashCode>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="WinCity.Control.LayoutManager.ILayoutManager" Collapsed="true">
+    <Position X="12" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>LayoutManager\ILayoutManager.cs</FileName>
+      <HashCode>AACAAAAAAAAAAAAAAAEAAAAAAAAAAAAIAAAAAABAAAA=</HashCode>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="WinCity.Control.Listener.IMouseEventListener" Collapsed="true">
+    <Position X="15.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Listener\IMouseEventListener.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAACEBAAAAAAIAAAAAACAAA=</HashCode>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="WinCity.Control.Event.MouseEventTypes" Collapsed="true">
+    <Position X="15.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Event\IMouseEvent.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAgABAAAAAEAAAAAAAAACAAgA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="WinCity.Control.PictureSizeMode" Collapsed="true">
+    <Position X="12" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>PictureSizeMode.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAQAAAIAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="WinCity.Control.TextImageAlignment" Collapsed="true">
+    <Position X="13.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>TextImageAlignment.cs</FileName>
+      <HashCode>AAAAAAAAwCAAEAAAAAAAIAAAAAAAAgAIEAAAAgAAAgA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="WinCity.Control.LayoutManager.FlowLayoutEnum" Collapsed="true">
+    <Position X="12" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>LayoutManager\FlowLayout.cs</FileName>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="WinCity.Control.LayoutManager.FlowLayoutOption" Collapsed="true">
+    <Position X="13.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>LayoutManager\FlowLayout.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIEAAAAAACAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+</ClassDiagram>

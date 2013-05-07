@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<ui>
+  <normal bg-transparent="true" item-padding="12" show-text="false" item-width="50" item-height="50" />
+</ui>

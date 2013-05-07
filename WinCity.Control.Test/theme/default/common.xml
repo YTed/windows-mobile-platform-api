@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<ui>
+  <scroll visible="true"  back-color="#E6E8FA" fore-color="#CD7F32" width="4" />
+  <normal font="宋体,9" back-color="#AAAAFF" fore-color="#000000" border-width="1" border-color="#FFFFFF" />
+  <pressed back-color="#FFAAAA" />
+</ui>
